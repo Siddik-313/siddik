@@ -1,0 +1,8 @@
+
+Public class Demo 
+{
+Public ststic void main(string args[])
+{
+sysem.out.println("Hello Java");
+}
+}
